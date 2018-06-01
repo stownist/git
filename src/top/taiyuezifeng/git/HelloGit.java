@@ -11,7 +11,7 @@ package top.taiyuezifeng.git;
 public class HelloGit {
 
     /**
-     * main方法
+     * HelloGit的主方法
      */
     public static void main(String[] args) {
 
