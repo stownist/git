@@ -15,7 +15,7 @@ public class HelloGit {
      */
     public static void main(String[] args) {
 
-        System.out.println("Helle, Git!");
+        System.out.println("Helle, Git!");//测试
 
     }
 
