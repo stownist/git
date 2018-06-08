@@ -16,6 +16,7 @@ public class HelloGit {
     public static void main(String[] args) {
 
         System.out.println("Helle, Git!");//测试
+	System.out.println("Hello, Branch!");//测试分支
 
     }
 
