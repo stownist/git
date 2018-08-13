@@ -18,6 +18,7 @@ public class HelloGit {
         System.out.println("Helle, Git!");//测试
         System.out.println("Hello, Branch!");//测试分支
         System.out.println("Hello, Commit Local!");
+        System.out.println("Hello, Merge Branch!");
 
     }
 
